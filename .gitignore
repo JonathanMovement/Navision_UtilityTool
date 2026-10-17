@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller output
+build/
+dist/
+
+# Third-party installer (download separately, see README)
+OCR_tesseract_installer/
+
+# Company branding
+Pictures/
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor settings
+.vscode/
